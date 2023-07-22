@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/best-ride/static/css/main.7493042f.css",
-    "main.js": "/best-ride/static/js/main.6a2637ba.js",
+    "main.js": "/best-ride/static/js/main.3689d343.js",
     "static/js/787.023a575f.chunk.js": "/best-ride/static/js/787.023a575f.chunk.js",
     "index.html": "/best-ride/index.html",
     "main.7493042f.css.map": "/best-ride/static/css/main.7493042f.css.map",
-    "main.6a2637ba.js.map": "/best-ride/static/js/main.6a2637ba.js.map",
+    "main.3689d343.js.map": "/best-ride/static/js/main.3689d343.js.map",
     "787.023a575f.chunk.js.map": "/best-ride/static/js/787.023a575f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7493042f.css",
-    "static/js/main.6a2637ba.js"
+    "static/js/main.3689d343.js"
   ]
 }
